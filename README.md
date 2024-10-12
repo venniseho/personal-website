@@ -6,5 +6,6 @@ link to planning document: [Personal Website](https://docs.google.com/document/d
 ## TODO
 - learn how to host a website on github
 - start coding!
+- design UI --> which language?
 
 
