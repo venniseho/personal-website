@@ -8,4 +8,8 @@ link to planning document: [Personal Website](https://docs.google.com/document/d
 - start coding!
 - design UI -->  HTML/CSS
 
+## Tech Stack
+- Java / Javascript
+- HTML/CSS
+
 
